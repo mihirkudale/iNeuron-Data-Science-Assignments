@@ -1,2 +1,2 @@
-# iNeuron-Full-Stack-Data-Science
+# iNeuron-Data-Science-Assignments
 
